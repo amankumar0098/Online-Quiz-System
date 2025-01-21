@@ -84,4 +84,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This is in Development. More features like user registration, admin login will be added soon.
 
 ## Demo
-Check out the live demo: [Online Quiz System](https://amankumarswe.github.io/Online-Quiz-System/)
+Check out the live demo: [Online Quiz System](https://coderamankr.github.io/Online-Quiz-System/)
